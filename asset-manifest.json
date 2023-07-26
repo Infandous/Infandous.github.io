@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.c4b7e480.css",
-    "main.js": "/react-gh-pages/static/js/main.dfc8c880.js",
-    "static/media/blackholeHomepage.jpg": "/react-gh-pages/static/media/blackholeHomepage.e42b15c3ce7faaf92986.jpg",
-    "static/media/henize_2_10.jpg": "/react-gh-pages/static/media/henize_2_10.6785f3f02fa77f6b547c.jpg",
-    "static/media/blackHoleEventHorizen.jpg": "/react-gh-pages/static/media/blackHoleEventHorizen.f9bebb7bc8b6b68fe177.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.c4b7e480.css.map": "/react-gh-pages/static/css/main.c4b7e480.css.map",
-    "main.dfc8c880.js.map": "/react-gh-pages/static/js/main.dfc8c880.js.map"
+    "main.css": "/static/css/main.c4b7e480.css",
+    "main.js": "/static/js/main.e2dbd36e.js",
+    "static/media/blackholeHomepage.jpg": "/static/media/blackholeHomepage.e42b15c3ce7faaf92986.jpg",
+    "static/media/henize_2_10.jpg": "/static/media/henize_2_10.6785f3f02fa77f6b547c.jpg",
+    "static/media/blackHoleEventHorizen.jpg": "/static/media/blackHoleEventHorizen.f9bebb7bc8b6b68fe177.jpg",
+    "index.html": "/index.html",
+    "main.c4b7e480.css.map": "/static/css/main.c4b7e480.css.map",
+    "main.e2dbd36e.js.map": "/static/js/main.e2dbd36e.js.map"
   },
   "entrypoints": [
     "static/css/main.c4b7e480.css",
-    "static/js/main.dfc8c880.js"
+    "static/js/main.e2dbd36e.js"
   ]
 }
